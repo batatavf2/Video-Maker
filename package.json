@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/batatavf2/Video-Maker/issues"
   },
-  "homepage": "https://github.com/batatavf2/Video-Maker#readme"
+  "homepage": "https://github.com/batatavf2/Video-Maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
